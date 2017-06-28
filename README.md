@@ -8,7 +8,7 @@ FusedLocation is an open-source project to support the Android's new LocationReq
 
 Requirements
 ---------------
-  - Titanium Mobile SDK 6.0.0.GA or later
+  - Titanium Mobile SDK 6.1.0.GA or later
   - Android 2.3 or later
 
 Download + Setup
