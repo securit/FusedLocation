@@ -4,7 +4,7 @@
 ---------------
 FusedLocation is an open-source project to support the Android's new LocationRequest in Appcelerator's Titanium Mobile.
 
-⚠ Axway Titanium are implementing this module part of the Ti SDK. You can watch it here: https://jira.appcelerator.org/browse/TIMOB-20522
+⚠ Axway Titanium are implementing this feature (FusedLocation for Android) part of the Ti SDK. You can watch it here: https://jira.appcelerator.org/browse/TIMOB-20522
 
 Requirements
 ---------------
